@@ -12,8 +12,8 @@ Everything here is stuff I've actually built and run, not demos.
 - Experimenting with a Claude Code `/wake-up` slash command that generates a full PM morning briefing before I open Jira
 
 **LMS product design**
-- Writing functional design documents for ExpertusONE features: Course Renewal (Stories 1-19), Learning History date filter redesign, Discussion feature, learner preferences
-- Jira spec writing, bug documentation, and FAQ documentation for the United Academy / United Rentals implementation
+- Writing functional design documents for ExpertusONE features: Gamification, Ai Analytics (Only with Txt to sql model with DB querying), Learner UI Redesign, Discussion feature, Creating Manager Hub
+- Working on Ai experiments withhing the LMS & Learning Space.
 
 **Self-hosted infra**
 - Samba-based NAS on Raspberry Pi OS (went this route after OMV had an OS compatibility issue)
@@ -38,7 +38,9 @@ Everything here is stuff I've actually built and run, not demos.
 
 ```
 Claude API  ·  Claude Code  ·  Cursor  ·  n8n  ·  OpenClaw
-Raspberry Pi 5  ·  Python  ·  Jira  ·  Notion  ·  ExpertusONE
+Raspberry Pi 5  ·  Python  ·  Jira  ·  Notion  ·  Chatgpt
+Perplexity  ·  Lovable  ·  Magic Patterns  ·  Posthog  ·  MS Clarity
+
 ```
 
 ## Connect
