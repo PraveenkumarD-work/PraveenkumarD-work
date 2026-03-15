@@ -1,67 +1,46 @@
 # Hi, I'm Praveen Kumar 👋
 
-**Product Manager → AI Systems Builder**
+I'm a Product Manager working on enterprise LMS at ExpertusONE. Outside of that, I spend a lot of time building AI workflows and automation tooling, mostly to solve my own problems first.
 
-I work at the intersection of **LMS product design**, **AI automation**, and **agentic workflows** — turning messy enterprise problems into clean systems.
+Everything here is stuff I've actually built and run, not demos.
 
-Most of my work is hands-on: functional specs, workflow automation, RAG architectures, and AI tooling for real product teams.
+## What I work on
 
----
+**AI workflows and agents**
+- Running OpenClaw on a Raspberry Pi 5 as a local RAG + memory setup for agentic research
+- Built an n8n research agent for LMS competitive intelligence with SHA-256 deduplication so the same article doesn't show up twice
+- Experimenting with a Claude Code `/wake-up` slash command that generates a full PM morning briefing before I open Jira
 
-## What I Work On
+**LMS product design**
+- Writing functional design documents for ExpertusONE features: Course Renewal (Stories 1-19), Learning History date filter redesign, Discussion feature, learner preferences
+- Jira spec writing, bug documentation, and FAQ documentation for the United Academy / United Rentals implementation
 
-- **AI Workflows** → n8n-based research agents, deduplication pipelines, competitive intel automation
-- **Agentic Systems** → OpenClaw on Raspberry Pi 5 — local RAG + memory architecture
-- **LMS Product Design** → ExpertusONE: Course Renewal, Learning History, Discussion features — full FDD to delivery
-- **PM × AI Tooling** → Automating the PM workflow: morning briefings, Jira specs, competitor tracking via Claude Code + Cursor
-- **Self-hosted infra** → Samba NAS, local LLM setups, Pi-based dev environments
+**Self-hosted infra**
+- Samba-based NAS on Raspberry Pi OS (went this route after OMV had an OS compatibility issue)
+- Local LLM setup alongside OpenClaw on the same Pi 5
 
----
+## Projects
 
-## About Me
+| Repo | What it is |
+|---|---|
+| `openclaw-memory` | Local RAG and memory architecture running on Pi 5 |
+| `n8n-research-agent` | Competitive intel automation with dedup pipeline |
+| `lms-course-renewal-fdd` | Full FDD for Course Renewal feature, Stories 1-19 |
+| `pm-morning-briefing` | Claude Code slash command for PM daily briefing |
 
-- 🏢 **Product Manager at ExpertusONE** — driving product for enterprise LMS clients including United Rentals
-- 🤖 Building AI-powered PM workflows that replace manual research, spec writing, and competitive analysis
-- 🔧 Running local agentic infra (OpenClaw + n8n) on Raspberry Pi 5 for real automation — not demos
-- 📍 Chennai, India
-- 🌊 Planning my next reset: Andaman Islands, March 2026
+## Writing
 
----
+- Docebo vs Cornerstone OnDemand: enrollment flow comparison
+- OpenClaw architecture breakdown written for non-engineers
+- Samba NAS setup on Raspberry Pi OS without OpenMediaVault
 
-## Projects (Building in Public)
-
-| Project | What it does | Stack |
-|---|---|---|
-| `openclaw-memory` | Local RAG + memory layer for agentic research | Python, Raspberry Pi, Vector DB |
-| `n8n-research-agent` | Competitive intel automation with SHA-256 dedup | n8n, Claude API, webhooks |
-| `lms-course-renewal-fdd` | Full functional design doc — Stories 1–19 | Markdown, Notion |
-| `pm-morning-briefing` | Claude Code `/wake-up` slash command for PM briefings | Claude Code, shell |
-
----
-
-## Writing & Thinking
-
-- Competitive Analysis: Docebo vs Cornerstone OnDemand enrollment flows
-- OpenClaw Architecture — memory, RAG, and agent routing explained for PMs
-- NAS setup guide: Samba on Raspberry Pi OS (the OMV-free path)
-
----
-
-## Stack I Actually Use
+## Stack
 
 ```
-AI:         Claude API · Claude Code · Cursor · n8n · OpenClaw
-Infra:      Raspberry Pi 5 · Samba · local LLMs
-PM Tools:   Jira · Notion · ExpertusONE
-Languages:  Python (scripting) · Markdown (everything else)
+Claude API  ·  Claude Code  ·  Cursor  ·  n8n  ·  OpenClaw
+Raspberry Pi 5  ·  Python  ·  Jira  ·  Notion  ·  ExpertusONE
 ```
 
----
+## Connect
 
-## Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/praveenkumard) 
-- 🐦 Twitter / X: @yourhandle
-- 📧 your@email.com
-
-> *"I don't demo ideas. I build the system, run it, break it, fix it, then write about what I learned."*
+[LinkedIn](https://linkedin.com/in/praveenkumard) · Portfolio: https://praveenkumard.framer.ai/ · work.praveenkumard@gmail.com
