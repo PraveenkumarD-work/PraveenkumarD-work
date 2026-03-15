@@ -25,12 +25,10 @@ Everything here is stuff I've actually built and run, not demos.
 |---|---|
 | `openclaw-memory` | Local RAG and memory architecture running on Pi 5 |
 | `n8n-research-agent` | Competitive intel automation with dedup pipeline |
-| `lms-course-renewal-fdd` | Full FDD for Course Renewal feature, Stories 1-19 |
+| `lms-Gamification` | Gamifying learner experience and incrasing engagement |
 | `pm-morning-briefing` | Claude Code slash command for PM daily briefing |
 
 ## Writing
-
-- Docebo vs Cornerstone OnDemand: enrollment flow comparison
 - OpenClaw architecture breakdown written for non-engineers
 - Samba NAS setup on Raspberry Pi OS without OpenMediaVault
 
